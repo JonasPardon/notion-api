@@ -1,0 +1,12 @@
+{
+    "name": "jonaspardon/notion-api",
+    "description": "PHP wrapper for the Notion API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jonas Pardon",
+            "email": "jonaspardon@hotmail.com"
+        }
+    ],
+    "require": {}
+}
